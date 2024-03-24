@@ -1,4 +1,4 @@
-## The Great Johore Burger Order System (GJB)
+## VP Food Order Windows Application
 
 ![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
 
